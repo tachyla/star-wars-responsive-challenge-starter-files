@@ -3,13 +3,14 @@
 }
 
 .box {
-	height: 250px;
+	height: 275px;
 	border: 1px solid lightgray;
 	margin: 5px;
 }
 img {
 	height: 160px;
 	width: 100%;
+	border: 1px solid lightgray; 
 }
 
 
