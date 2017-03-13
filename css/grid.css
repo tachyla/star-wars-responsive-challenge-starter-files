@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+/* Row Control
+   ===========
+   This controls the widest point the grid 
+   will stretch and how it should behave inside 
+   its parent container */
+.row {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+/* NON MOBILE
+   ==========
+   (LARGE monitor when screen is 960px*/
+.col-4 {
+	float: left;
+  	padding-left: 1.04166666%;
+  	padding-right: 1.04166666%;
+}
+
+/* MOBILE 
+   ======
+   indicating the child should
+   stretch 100 % of it parent's container   */
+.col-4 {
+	width: 33.33%;
+}
+
+@media only screen and (min-width: 640px) {
+	.col-y {
+		width; 
+  		padding-left: 1.04166666%;
+  		padding-right: 1.04166666%;
+}
+
+}
