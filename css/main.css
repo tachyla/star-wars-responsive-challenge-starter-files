@@ -19,7 +19,6 @@
 }
 
 .box {
-	height: 100%px;
 	border: 1px solid lightgray;
 	margin-top: 25px;
 	margin-left: 5px;
@@ -44,7 +43,6 @@
 }
 
 img {
-	height: 160px;
 	width: 100%;
 	border: 1px solid lightgray;
 	margin-bottom: 25px;
