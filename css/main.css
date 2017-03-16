@@ -1,18 +1,18 @@
-.container {
+.navigation {
 	background: orange;
 	padding-left: 60px;
 }
 
-.container h1 {
+.navigation h1 {
 	margin: 0;
 }
 
-.container h1:last-child {
+.navigation h1:last-child {
 	font-size: 18px;
 }
 
-.container h1,
-.container p,
+.navigation h1,
+.navigation p,
 .box h1,
 .box p {
 	font-family: "Roboto";
