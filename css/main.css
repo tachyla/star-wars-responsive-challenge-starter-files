@@ -17,11 +17,8 @@ nav {
 }
 
 .navigation h2 {
-	padding-bottom: 10px;
-}
-
-.navigation h1:last-child {
 	font-size: 18px;
+	padding-bottom: 10px;
 }
 
 .navigation h1,
